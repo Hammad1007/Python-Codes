@@ -9,4 +9,5 @@ This repository is all about projects in python language. The projects can have 
 
 #### 👇 Projects:
 
-Tic Tac Toe in Python
+    :tick: Tic Tac Toe in Python
+    :scissors: Rock, Paper, Scissors
