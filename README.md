@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
+# :snake: Python Projects
 Tic Tac Toe in Python
