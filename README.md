@@ -7,6 +7,6 @@ This repository is all about projects in python language. The projects can have 
    :point_right: Hammad Rashid
     
 
-#### Projects:
+#### 👇 Projects:
 
 Tic Tac Toe in Python
