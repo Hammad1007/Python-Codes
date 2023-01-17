@@ -2,12 +2,12 @@
 
 This repository is all about projects in python language. The projects can have a varying level of difficulty. 
 
-**Contributors:**
+**Contributors**
 
    :point_right: Hammad Rashid
     
 
-#### 👇 Projects:
+### 👇 Projects
 
-    :tick: Tic Tac Toe in Python
-    :scissors: Rock, Paper, Scissors
+    Tic Tac Toe
+    Rock, Paper, Scissors
