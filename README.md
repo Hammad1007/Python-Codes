@@ -11,3 +11,4 @@ This repository is all about projects in python language. The projects can have 
 
     Tic Tac Toe
     Rock, Paper, Scissors
+    Number Guessing Game
