@@ -1,6 +1,6 @@
-# :snake: Python Projects
+# :snake: Python Codes
 
-This repository is all about projects in python language. The projects can have a varying level of difficulty. 
+This repository is all about codes and programs in python language. The programs have a varying level of difficulty. 
 
 **Contributors**
 
