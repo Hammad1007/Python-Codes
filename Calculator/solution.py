@@ -31,6 +31,8 @@ def start():
   print("The product of a and b is: ", multiply(a, b))
   print("The dividend of a and b is: ", divide(a, b))
   print("The modulus of a and b is: ", modulo(a, b))
+  print("If you wish to exit, press '0'. ")
+  #c = int(input("Enter 0 to exit.\n"))
 
 start()
 
