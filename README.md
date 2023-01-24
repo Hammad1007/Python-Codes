@@ -12,3 +12,4 @@ This repository is all about codes and programs in python language. The programs
     Tic Tac Toe
     Rock, Paper, Scissors
     Number Guessing Game
+    Simple Calculator
