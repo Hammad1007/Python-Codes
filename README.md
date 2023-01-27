@@ -13,3 +13,4 @@ This repository is all about codes and programs in python language. The programs
     Rock, Paper, Scissors
     Number Guessing Game
     Simple Calculator(basic functions)
+    Quadratic Roots
