@@ -14,3 +14,4 @@ This repository is all about codes and programs in python language. The programs
     Number Guessing Game
     Simple Calculator(basic functions)
     Quadratic Roots
+    Linear Search
