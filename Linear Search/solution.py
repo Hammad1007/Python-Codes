@@ -1,7 +1,6 @@
 # Program to linearly search a number in an array
 import cmath
 
-
 a = []
 arr = []
 n = int(input("Enter the size of array: "))
