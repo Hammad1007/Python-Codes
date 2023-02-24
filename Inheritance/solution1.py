@@ -7,13 +7,19 @@ class Person:
     self.age = age
     
   def printdet(self):
-    print("Name is: ", self.name)
-    print("Age is: ", self.age)
+    print(self.name, self.age)
 
+# Child class
 class Student(Person):
   def __init__(self, name, age, gender, degree):
-    super().__init__(name, age)
+    super().__init__(name, age)   # super method is basically using the parent class contructor
     self.gender = gender
     self.degree = degree
+      
+  def printdet(self):
+    print(self.name, self.age, self.gender, self.degree)
     
+# Main here
+s = Student("Hammad", 22, "Male", "BsCS")
+s.printdet()
     
