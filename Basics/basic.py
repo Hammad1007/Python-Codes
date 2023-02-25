@@ -12,3 +12,5 @@ print(a)
 print(b)
 print(c)
 print(d)
+
+# In python, there are no libraries or header files to initialize the keywords as in C or C++. We can directly start with the program in python
