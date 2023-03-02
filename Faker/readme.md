@@ -20,3 +20,9 @@ The command to use in the main is as follows:
 ```python
 from faker import Faker
 ```
+
+#### Making an object of Fake class
+
+```python
+fake = Faker()
+```
