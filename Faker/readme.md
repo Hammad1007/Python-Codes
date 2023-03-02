@@ -26,3 +26,14 @@ from faker import Faker
 ```python
 fake = Faker()
 ```
+#### Simple program to orint a fake name and a fake address
+
+```python
+from faker import Faker
+fake = Faker()
+name = fake.name()
+address = fake.address()
+
+print(name)
+print(address)
+```
