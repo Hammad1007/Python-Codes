@@ -10,6 +10,14 @@ The command to install is as follows:
 ```python
 !pip install faker
 ```
+
+The output of this line is something like given below:
+<img
+  src=""
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
 #### Working:
 This library calls an object of faker class and then helps in making the fake data such as names, addresses, phone numbers. Also this can be called anywhere in the program. In a for loop, while loop, if else conditions switch statements and many more!
 This is more helpful when working with data anlytics and generating data for testing purposes at a beginner level.
