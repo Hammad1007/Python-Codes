@@ -13,7 +13,7 @@ The command to install is as follows:
 
 The output of this line is something like given below:
 <img
-  src=""
+  src="https://github.com/Hammad1007/Python-Codes/blob/Faker/Faker/img/img.jpg"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
