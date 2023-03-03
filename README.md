@@ -16,3 +16,4 @@ This repository is all about codes and programs in python language. The programs
     Linear Search
     BMI Calculator
     Inheritance/Classes
+    Faker class
