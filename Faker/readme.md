@@ -44,3 +44,10 @@ address = fake.address()
 print(name)
 print(address)
 ```
+
+The output of this line is something like given below:
+<img
+  src="https://github.com/Hammad1007/Python-Codes/blob/Faker/Faker/img/out.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
