@@ -44,8 +44,8 @@ address = fake.address()
 print(name)
 print(address)
 ```
-
 The output of this line is something like given below:
+
 <img
   src="https://github.com/Hammad1007/Python-Codes/blob/Faker/Faker/img/out.jpg"
   alt="Alt text"
