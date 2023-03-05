@@ -2,7 +2,7 @@
 
 **Contributors:**
 
-Hammad Rashid
+👉 Hammad Rashid
 
 ### :hammer: Languages and Tools:
 
