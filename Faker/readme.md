@@ -5,6 +5,10 @@
 Hammad Rashid
 
 ### :hammer: Languages and Tools:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://miro.medium.com/max/256/0*zNcjWYiZcJgreZAs.png"  title="Colab" alt="Googlecolab" width="60" height="52"/>&nbsp;
+
 ### Faker
 
 Faker is basically a library which helps to generate fake data in python. 
