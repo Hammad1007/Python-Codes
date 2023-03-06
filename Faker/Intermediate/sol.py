@@ -7,3 +7,11 @@ fake = Faker()
 for i in range(0, 10):
   name = fake.name()
   print(name)
+
+# While loop as well
+print("\n")
+i = 0
+while i < 10:
+  name = fake.name()
+  print(name)
+  i = i + 1
