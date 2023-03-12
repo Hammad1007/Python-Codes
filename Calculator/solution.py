@@ -23,6 +23,7 @@ def modulo(x, y):
 def power(x, y):
   return pow(x, y)
 
+
 # start function to begin with the calculations
 def start():
   a = int(input("Enter the value of a: "))
